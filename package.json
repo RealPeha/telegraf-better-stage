@@ -1,0 +1,33 @@
+{
+  "name": "telegraf-better-stage",
+  "version": "1.0.0",
+  "description": "Better scene Stage for Telegraf.js",
+  "author": "Stas Kardash real.peha@gmail.com",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RealPeha/telegraf-better-stage"
+  },
+  "bugs": {
+    "url": "https://github.com/RealPeha/telegraf-better-stage/issues"
+  },
+  "homepage": "https://github.com/RealPeha/telegraf-better-stage#readme",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "lib/*.js"
+  ],
+  "keywords": [
+    "telegram-bot-api",
+    "telegraf",
+    "bot",
+    "scenes",
+    "telegraf-stage",
+    "wizard-scene"
+  ],
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
